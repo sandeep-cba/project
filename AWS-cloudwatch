@@ -1,0 +1,2 @@
+AWS cloud watch. we use to collect all the AWS log to colud watch and cloud watch is sending to new Calyptia pipeline hec collector.
+we need to make sure, source is able to connect to, Calyptia pipeline.
